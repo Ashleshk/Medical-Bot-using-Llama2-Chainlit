@@ -52,3 +52,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
 ## Output - ChainLit
 
+
+
+https://github.com/Ashleshk/Medical-Bot-using-Llama2-Chainlit/assets/41265732/79f77dcb-a05e-4b90-a729-d70765848d6a
+
